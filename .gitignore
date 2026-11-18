@@ -1,0 +1,6 @@
+*.docx
+*.pdf
+captura-*.png
+capturas.cjs
+crear_informe.py
+template.docx
